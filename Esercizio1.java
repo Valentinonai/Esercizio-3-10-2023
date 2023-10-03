@@ -23,7 +23,7 @@ public class Esercizio1 {
             if (anno%400==0) System.out.println("Anno bisestile");
             else System.out.println("Anno non bisestile");
         }else{
-            if(anno%4==0) System.out.println("Anno bissestile");
+            if(anno%4==0) System.out.println("Anno bisestile");
             else System.out.println("Anno non bisestile");
         }
 
